@@ -1,0 +1,5 @@
+git init
+git clone origin url
+git push origin
+git fecht origin
+git pull origin
